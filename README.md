@@ -4,7 +4,7 @@
 
 # Description
 
-This application is the final project from Module 2 in the MIT X Pro Full Stack Developer Program that focused in the Front-End development using the React library and the Bootstrap framework for styling. In the development of this application I used React hooks, React-Router and context. This app is deployed in a AWS bucket that you can access here: <a href="https://daniel-gaviriabankingapplication.s3.amazonaws.com">Bad Bank React Application</a>
+This application is the final project from Module 2 in the MIT X Pro Full Stack Developer Program that focused in the Front-End development using the React library and the Bootstrap framework for styling. In the development of this application I used React hooks, React-Router and context. This app is deployed in a AWS bucket that you can access here: <a href="http://daniel-gaviriabankingapplication.s3-website-us-east-1.amazonaws.com">Bad Bank React Application</a>
 
 To run this application simply clone it into your local machine or download the .zip file to get the source code.
 
